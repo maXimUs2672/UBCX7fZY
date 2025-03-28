@@ -8,7 +8,6 @@
 - AutoML Freiburg-Hannover [[Website]](https://www.ml4aad.org/automl/)
 - Survey on End-To-End Machine Learning Automation [[Paper]](https://arxiv.org/pdf/1906.02287.pdf) [[GitHub]](https://github.com/DataSystemsGroupUT/AutoML_Survey)
 - Design Automation for Efficient Deep Learning Computing [[paper]](https://arxiv.org/pdf/1904.10616.pdf) [[GitHub]](https://github.com/mit-han-lab/haq-release)
-  - Han, Song, et al. (*arXiv preprint arXiv:1904.10616 (2019)*)
   
 
 ## AutoML Opensource Toolkit
