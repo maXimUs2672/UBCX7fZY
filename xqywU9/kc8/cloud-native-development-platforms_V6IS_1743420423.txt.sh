@@ -5,7 +5,6 @@
 # Description: OpenWrt DIY script part 1 (Before Update feeds)
 # Lisence: MIT
 # Author: P3TERX
-# Blog: https://p3terx.com
 #=============================================================
 
 # Uncomment a feed source
